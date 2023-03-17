@@ -24,6 +24,10 @@ const NavBar =(props)=>{
         <li className="nav-item"><Link className="nav-link active" to="/sports">Sports</Link></li>
         <li className="nav-item"><Link className="nav-link active" to="/technology">Technology</Link></li>
         <li className="nav-item"><Link className="nav-link active" to="/entertainment">Entertainment</Link></li>
+        <li className="nav-item"><Link className="nav-link active" to="/travel">Travel</Link></li>
+        <li className="nav-item"><Link className="nav-link active" to="https://www.autoexpo-themotorshow.in/">AutoExpo</Link></li>
+        <li className="nav-item"><Link className="nav-link active" to="https://ashishkumarchakrawarti.github.io/TechInfo/">IT Sector</Link></li>
+        <li className="nav-item"><Link className="nav-link active" to="/photos">Photo</Link></li>
         <li><Dclock/></li>
        </ul>
     
